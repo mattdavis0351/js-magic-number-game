@@ -1,0 +1,24 @@
+{
+  "name": "js-magic-number-game",
+  "version": "1.0.0",
+  "description": "Day 5 of 100, let's play with JS for a change",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattdavis0351/js-magic-number-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattdavis0351/js-magic-number-game/issues"
+  },
+  "homepage": "https://github.com/mattdavis0351/js-magic-number-game#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
